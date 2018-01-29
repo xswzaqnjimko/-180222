@@ -49,7 +49,8 @@ def play_again():
 
 #あなた、やっぱり此処に来たねwww
 #   told you~ just go back to the card =v=#
-# > teach me when we meet♡♡!!
+#不完全ですみませんQ-Q!!
+#   teach me when we meet♡♡!!
 
 def are_you_sure():
     sure_ka_i = input("Are you sure? \n"
